@@ -20,6 +20,10 @@ include '../_inc/menu.php'
 <div class="container-subtitulo">
     <h2 class="subtitulo">Aqui no Doggo, celebramos a amizade única e incondicional que temos com nossos cachorros. Se você é um apaixonado por cães ou está procurando dicas para cuidar melhor do seu amigo peludo, você está no lugar certo! Nosso objetivo é fornecer tudo o que você precisa para garantir que seu cachorro tenha uma vida feliz, saudável e cheia de aventuras.</h2>
 </div>
+    <div class="imagem-container">
+        <img src="../assets/img/1-ae08e8dd (1).png" alt="Imagem 1" class="imagem">
+        <img src="../assets/img/pessoafeliz1 (1).jpg" alt="Imagem 2" class="imagem">
+    </div>
 </div>
 </body>
 </html>
