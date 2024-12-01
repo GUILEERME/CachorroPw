@@ -19,6 +19,8 @@
 <div class="imagem-container">
         <img src="../assets/img/1-ae08e8dd (1).png" alt="Imagem 1" class="imagem">
         <img src="../assets/img/pessoafeliz1 (1).jpg" alt="Imagem 2" class="imagem">
+        <img src="../assets/img/pessoafeliz1 (1).jpg" alt="Imagem 2" class="imagem">
+        <img src="../assets/img/pessoafeliz1 (1).jpg" alt="Imagem 2" class="imagem">
     </div>
 </div>
 
